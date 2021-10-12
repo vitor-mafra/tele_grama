@@ -1,3 +1,3 @@
 ## tele_grama
 
-Analisando a atividade do canal oficial do presidente do Brasil no Telegram
+Analisando a atividade de canais públicos (os supergrupos) no Telegram
