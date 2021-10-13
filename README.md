@@ -1,3 +1,3 @@
 ## tele_grama
 
-Analisando a atividade de canais públicos brasileiros (os supergrupos) no Telegram
+Analisando a atividade de canais públicos brasileiros (as listas de transmissão) no Telegram
